@@ -1,4 +1,4 @@
-# bokep bos 🎥
+# bokep adik 🎥
 
 An SSR video streaming frontend which uses doodstream.com as a backend. It is built using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
@@ -16,7 +16,7 @@ An SSR video streaming frontend which uses doodstream.com as a backend. It is bu
 
 ## Live Demo
 
-A live demo of the project is available at [https://bokepbos.pages.dev](https://bokepbos.pages.dev/).
+A live demo of the project is available at [https://bokepadik.pages.dev](https://bokepadik.pages.dev/).
 
 ## Configuration
 
@@ -80,7 +80,7 @@ npm run start
 
 ## Deployment on Cloudflare Pages
 
-1. Fork the [repository](https://github.com/lapelive/bokepbos/fork) on GitHub.
+1. Fork the [repository](https://github.com/pstop1511/bokepadik/fork) on GitHub.
 2. Create a new project on [Cloudflare Pages](https://pages.cloudflare.com/).
 3. Connect your GitHub account with Cloudflare Pages.
 4. Select the forked repository and click on `Begin Setup`.
