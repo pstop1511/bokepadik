@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepadik.pages.dev/sitemap.xml
